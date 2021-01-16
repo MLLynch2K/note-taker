@@ -21,6 +21,8 @@ Clone Repository, Run NPM Install, Run NPM i Uniquid
 ***
 ### Screenshot  
 ![Homepage](public/images/homepage.png)
+***
+![Saved Lists](public/images/savednotetaker.png)
 
 ***
 ### Features  
@@ -44,6 +46,5 @@ Back-end: Michele Lee Lynch
 
 ***
 ### Questions  
-Contact information for questions:  
 Github: MLLynch2K  
 Email: michele.lynch8@yahoo.com
