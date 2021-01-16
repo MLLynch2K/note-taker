@@ -27,5 +27,4 @@ router.delete("/notes/:id", (req, res) => {
     updateDb(notes);
 });
 
-
 module.exports = router;
