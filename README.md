@@ -3,7 +3,7 @@ A web application that can be used to write and save notes. You can enter a note
 
 ***
 ### Table of Contents  
-1. [Installation](
+1. [Installation]()
 2. [Heroku Deployment]()
 3. [Screenshot]()
 4. [Features]()
