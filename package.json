@@ -1,0 +1,28 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uniqid": "^5.2.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://mllynch2k.github.io/note-taker/"
+  },
+  "bugs": {
+    "url":  "https://github.com/mllynch2k/note-taker/issues"
+  },
+  "homepage": "https://github.com/mllynch2k/note-taker#readme"
+}
