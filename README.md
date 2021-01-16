@@ -24,14 +24,14 @@ Clone Repository, Run NPM Install, Run NPM i Uniquid
 
 ***
 ### Features  
-HTML/CSS
-JavaScript  
-NPM  
-Node.js 
-Express.js
-Uniquid
-fs
-Heroku
+HTML/CSS  
+JavaScript    
+NPM    
+Node.js   
+Express.js  
+Uniquid  
+fs  
+Heroku  
 
 ***
 ### Licenses   
